@@ -1,0 +1,21 @@
+#center-card-container {
+    display: inline-block;
+    height: 50vh;
+    width: 50vw;
+}
+
+#center-card {
+    height: 40vh;
+    width: 44vw;
+    padding: 20px;
+    overflow: scroll;
+    scroll-margin-left: 20px;
+    border: 2px solid black;
+}
+
+#center-card-status-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
